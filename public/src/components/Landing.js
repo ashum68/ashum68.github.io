@@ -10,7 +10,7 @@ const Landing = () => {
 
   return (
     <div id='home' className='w-screen h-screen'>
-      <img className='w-screen h-screen absolute' src={bg} />
+      <img className='w-screen h-screen absolute' src={bg} alt='background'/>
       <div class="grid grid-cols-2 absolute w-screen h-screen justify-items-center items-center">
         <div class="p-4">
           <h1 className='text-5xl text-white font-bold '>Hi, I'm Andrew.</h1>
@@ -28,7 +28,7 @@ const Landing = () => {
           </div>
         </div>
         <div >
-          <img src={memoji} className='h-95 w-85' />
+          <img src={memoji} className='h-95 w-85' alt='memoji' />
         </div>
       </div>
 
