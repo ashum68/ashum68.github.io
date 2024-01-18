@@ -9,12 +9,12 @@ import mail from '../assets/mail.png'
 const Landing = () => {
 
   return (
-    <div className='w-screen h-screen'>
+    <div id='home' className='w-screen h-screen'>
       <img className='w-screen h-screen absolute' src={bg} />
       <div class="grid grid-cols-2 absolute w-screen h-screen justify-items-center items-center">
         <div class="p-4">
           <h1 className='text-5xl text-white font-bold '>Hi, I'm Andrew.</h1>
-          <h4 className='text-gray-200'>I am a Software Engineer based in Toronto.</h4>
+          <h4 className='text-gray-200'>I am a Software Developer based in Toronto.</h4>
           <div className="mt-4">
             <a href="https://www.linkedin.com/in/andrew-shum618/">
               <img src={linked} alt="LinkedIn" className="h-7 w-7 mr-4" />
