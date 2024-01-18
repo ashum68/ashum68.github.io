@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ashum68.github.io/static/css/main.317263f7.css",
+    "main.js": "/ashum68.github.io/static/js/main.234933b2.js",
+    "static/js/787.8a146350.chunk.js": "/ashum68.github.io/static/js/787.8a146350.chunk.js",
+    "static/media/bg.jpg": "/ashum68.github.io/static/media/bg.b0ad1c594663c670796b.jpg",
+    "static/media/memoji.png": "/ashum68.github.io/static/media/memoji.f0bea40be982655ea73d.png",
+    "index.html": "/ashum68.github.io/index.html",
+    "main.317263f7.css.map": "/ashum68.github.io/static/css/main.317263f7.css.map",
+    "main.234933b2.js.map": "/ashum68.github.io/static/js/main.234933b2.js.map",
+    "787.8a146350.chunk.js.map": "/ashum68.github.io/static/js/787.8a146350.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.317263f7.css",
+    "static/js/main.234933b2.js"
+  ]
+}
