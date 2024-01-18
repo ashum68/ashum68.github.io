@@ -1,5 +1,4 @@
 import React from 'react'
-import Carousel from 'react-bootstrap/Carousel'
 import placeholder from '../assets/placeholder.jpg'
 
 const Projects = () => {
@@ -10,9 +9,9 @@ const Projects = () => {
         <div className='col-span-3 p-3 mt-3'>
           <h2>BizFund</h2>
           <p>project description</p>
-          <p>Build with: Python, React Native, Verbwire API, MongoDB</p>
+          <p>Built with: Python, React Native, Verbwire API, Firebase, TailwindCSS</p>
           <p>Technical Overview</p>
-          <a href=''>GitHub</a>
+          <a href='https://github.com/dianalam122/DeltaHacks'>GitHub</a>
         </div>
         <div className='col-span-2 p-3'>
           <img src={placeholder} alt='project picture' className='w-full h-full rounded-xl' />
@@ -21,9 +20,9 @@ const Projects = () => {
         <div className='col-span-3 p-3 mt-8'>
           <h2>Blind Spot Monitor Using Computer Vision</h2>
           <p>project description</p>
-          <p>Build with:</p>
+          <p>Built with: Python, OpenCV, YOLO Object Detection Algorithm</p>
           <p>Technical Overview</p>
-          <a href=''>GitHub</a>
+          <a href='https://github.com/ashum68/blindspotmonitor'>GitHub</a>
         </div>
         <div className='col-span-2 p-3'>
           <img src={placeholder} alt='project picture' className='w-full h-full rounded-xl' />
@@ -33,9 +32,9 @@ const Projects = () => {
         <div className='col-span-3 p-3 mt-8'>
           <h2>Stock-Tracking Discord Bot</h2>
           <p>The Stalk-a-Stock Discord Bot is capable of outputting real-time stock prices by using Slash Commands and requesting any stock ticker.</p>
-          <p>Build with: JavaScript, REST API, discord.js</p>
+          <p>Built with: JavaScript, REST API, discord.js</p>
           <p>Technical Overview: Stock data is retrieved using the Financial Modelling Prep REST API.</p>
-          <a href=''>GitHub</a>
+          <a href='https://github.com/ashum68/stalkstock'>GitHub</a>
         </div>
         <div className='col-span-2 p-3'>
           <img src={placeholder} alt='project picture' className='w-full h-full rounded-xl' />
@@ -44,16 +43,16 @@ const Projects = () => {
         <div className='col-span-3 p-3 mt-8'>
           <h2>Personal Portfolio Website</h2>
           <p>This is my personal portfolio website where I can share all of my creative projects, my experiences, and a little bit about myself and my journey to becoming a software engineer.</p>
-          <p>Build with: React, JavaScript, HTML, TailwindCSS</p>
+          <p>Built with: React, JavaScript, HTML, TailwindCSS</p>
           <p>Technical Overview</p>
-          <a href=''>GitHub</a>
+          <a href='https://github.com/ashum68/ashum68.github.io'>GitHub</a>
         </div>
         <div className='col-span-2 p-3'>
           <img src={placeholder} alt='project picture' className='w-full h-full rounded-xl' />
         </div>
       </div>
 
-
+      
 
 
     </div>
