@@ -41,7 +41,7 @@ const Projects = () => {
           <div className='col-span-5 lg:col-span-3 p-3 mt-8'>
             <h2>Personal Portfolio Website</h2>
             <p>This is my personal portfolio website where I can share all of my creative projects, my experiences, and a little bit about myself and my journey to becoming a software engineer.</p>
-            <p>Built with: React, JavaScript, HTML, TailwindCSS</p>
+            <p>Built with: React, JavaScript, HTML, TailwindCSS, Bootstrap</p>
             
             <Button href='https://github.com/ashum68/ashum68.github.io' variant='dark' target="_blank" rel="noopener noreferrer">GitHub</Button>
           </div>
