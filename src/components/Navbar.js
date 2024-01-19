@@ -2,8 +2,8 @@ import React from 'react'
 
 const Navbar = () => {
     return (
-        <div class="bg-white px-4 py-2 rounded-2xl h-13 fixed top-8 left-1/2 transform -translate-x-1/2 shadow-lg align-top">
-            <nav class="flex space-x-5 font-bold">
+        <div className="bg-white px-2 lg:px-4 py-2 rounded-2xl h-13 fixed top-8 left-1/2 transform -translate-x-1/2 shadow-lg align-top">
+            <nav className="flex space-x-3 lg:space-x-5 lg:font-bold lg:px-4">
                 <a href="/#home" class="text-black no-underline">Home</a>
                 <a href="/#about" class="text-black no-underline">About</a>
                 <a href="/#projects" class="text-black no-underline">Projects</a>
