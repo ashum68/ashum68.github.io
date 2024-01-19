@@ -4,9 +4,9 @@ const Experience = () => {
     return (
         <div className='my-10'>
             <h1 className='font-extrabold text-5xl bg-gradient-to-r from-purple-500 via-indigo-400 to-blue-400 inline-block text-transparent bg-clip-text'>Experience</h1>
-            <div id='experience' className="shadow p-14 rounded-3xl mt-14">
+            <div id='experience' className="shadow p-14 px-4 lg:px-14 rounded-3xl mt-14">
 
-                <div className='mt-4 ml-4'>
+                <div className='mt-0 lg:mt-4 ml-4'>
                     <h3>President</h3>
                     <h4>Science Club</h4>
                     <p>As President of Milliken Mills HS's science club, I offered opportunities and activities to broaden interest in biology, chemistry, and physics for over 50 students by organizing
