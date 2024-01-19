@@ -13,7 +13,7 @@ const Landing = () => {
       <img className='w-screen h-screen absolute' src={bg} alt='background'/>
       <div class="grid grid-cols-2 absolute w-screen h-screen justify-items-center items-center">
         <div class="p-4">
-          <h1 className='text-5xl text-white font-bold '>Hi, I'm Andrew.</h1>
+          <h1 className='text-3xl lg:text-5xl text-white font-bold'>Hi, I'm Andrew.</h1>
           <h4 className='text-gray-200'>I am a Software Developer based in Toronto.</h4>
           <div className="mt-4">
             <a href="https://www.linkedin.com/in/andrew-shum618/">
@@ -28,7 +28,7 @@ const Landing = () => {
           </div>
         </div>
         <div >
-          <img src={memoji} className='h-95 w-85' alt='memoji' />
+          <img src={memoji} className='w-full h-auto' alt='memoji' />
         </div>
       </div>
 

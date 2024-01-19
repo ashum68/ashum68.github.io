@@ -12,7 +12,7 @@ function App() {
 
       <Landing />
 
-      <div className='m-16 mx-20 lg:px-20 sm:mx-5'>
+      <div className='m-16 mx-6 md:mx-20 lg:mx-44'>
         <About />
         <Projects />
         <Experience />
