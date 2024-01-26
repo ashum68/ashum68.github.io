@@ -4,6 +4,7 @@ import placeholder from '../assets/placeholder.jpg'
 
 import pw from '../assets/pw.png'
 import bsm from '../assets/bsm.png'
+import disc from '../assets/disc.png'
 
 const Projects = () => {
   return (
@@ -34,7 +35,7 @@ const Projects = () => {
             <Button href='https://github.com/ashum68/stalkstock' variant='dark' target="_blank" rel="noopener noreferrer">GitHub</Button>
           </div>
           <div className='col-span-5 lg:col-span-2 p-3'>
-            <img src={placeholder} alt='project picture' className='w-full h-full rounded-xl' />
+            <img src={disc} alt='project picture' className='w-full h-full rounded-xl' />
           </div>
         </div>
         <div className="grid grid-cols-5 shadow p-3 lg:p-8 my-4 rounded-3xl ">
